@@ -27,7 +27,7 @@ Plataforma web interna desarrollada para el seguimiento de rendimiento comerccia
 Módulo de software enfocado en la automatización de procesos internos, control de flujos de datos y optimización de lógica de negocio para gestión corporativa.
 - **Solución Técnica:** Arquitectura limpia en el backend asegurando consistencia de datos, control de accesos y seguridad en las transacciones de información.
 - **Tecnologías:** Laravel, Base de Datos SQL, Arquitectura MVC.
-- [🔗 Ver Repositorio](#) *(Coloca aquí el enlace cuando esté público)*
+- - [🔗 Ver Repositorio](https://github.com/Parrys25/monkey-system)
 
 ---
 
