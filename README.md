@@ -45,7 +45,7 @@ Laravel, PHP, PostgreSQL, Blade Templates, JavaScript, Leaflet Maps, HTML5, CSS3
   
 ---
 ###
-Sistema Empresarial de Inteligencia Comercial – Monkey System | Curaprox Chile
+Monkey System – Curaprox Chile
 
 Plataforma web corporativa desarrollada para la gestión y análisis de información comercial, integrando módulos de ventas, productos, clientes, vendedores, metas comerciales, reportes ejecutivos y análisis retail en una única solución centralizada.
 
