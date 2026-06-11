@@ -43,10 +43,56 @@ Tecnologías utilizadas:
 Laravel, PHP, PostgreSQL, Blade Templates, JavaScript, Leaflet Maps, HTML5, CSS3 y Tailwind CSS.
 - [🔗 Ver Repositorio](https://github.com/Parrys25/Geovisitpro)
 
-### ⚙️ Sistema Empresarial – Monkey System-Curaprox Chile
-Módulo de software enfocado en la automatización de procesos internos, control de flujos de datos y optimización de lógica de negocio para gestión corporativa.
-- **Solución Técnica:** Arquitectura limpia en el backend asegurando consistencia de datos, control de accesos y seguridad en las transacciones de información.
-- **Tecnologías:** Laravel, Base de Datos SQL, Arquitectura MVC.
+###Sistema Empresarial de Inteligencia Comercial – Monkey System | Curaprox Chile
+
+Plataforma web corporativa desarrollada para la gestión y análisis de información comercial, integrando módulos de ventas, productos, clientes, vendedores, metas comerciales, reportes ejecutivos y análisis retail en una única solución centralizada.
+
+El sistema permite consolidar grandes volúmenes de datos provenientes de distintas fuentes comerciales, entregando indicadores estratégicos en tiempo real mediante dashboards interactivos, reportes dinámicos y herramientas de análisis orientadas a la toma de decisiones.
+
+Responsabilidades y Solución Técnica:
+
+Diseño e implementación de la arquitectura backend bajo el patrón MVC.
+Desarrollo de dashboards ejecutivos con indicadores comerciales y métricas de rendimiento.
+Construcción de módulos de análisis de ventas por producto, categoría, cliente y vendedor.
+Implementación de sistemas de importación y procesamiento masivo de datos comerciales.
+Desarrollo de reportes dinámicos con filtros avanzados y consultas optimizadas.
+Gestión de usuarios, roles y permisos para control de acceso a información sensible.
+Optimización de consultas SQL sobre grandes volúmenes de datos para mejorar tiempos de respuesta.
+Integración de visualizaciones gráficas para análisis histórico y comparativo de resultados comerciales.
+
+Principales módulos desarrollados:
+
+Dashboard Ejecutivo de KPI comerciales.
+Gestión de Productos.
+Análisis de Ventas Consolidadas.
+Gestión y seguimiento de Vendedores.
+Ventas por Producto.
+Ventas por Categoría.
+Retail por Categoría.
+Gestión de Metas Comerciales.
+Análisis de Clientes.
+Administración de Usuarios y Control de Accesos.
+Reportería Gerencial.
+
+Tecnologías utilizadas:
+
+Laravel
+PHP
+PostgreSQL
+SQL Avanzado
+Arquitectura MVC
+Blade
+JavaScript
+Tailwind CSS
+Chart.js
+
+Resultados obtenidos:
+
+Centralización de la información comercial en una única plataforma.
+Automatización de procesos de análisis y generación de reportes.
+Reducción de tiempos de procesamiento y búsqueda de información.
+Disponibilidad de indicadores estratégicos para la toma de decisiones comerciales.
+Escalabilidad para incorporar nuevos módulos de negocio según requerimientos corporativos.
 - - [🔗 Ver Repositorio](https://github.com/Parrys25/monkey-system)
 
 ---
