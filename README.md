@@ -17,10 +17,30 @@ Soy un desarrollador Full Stack enfocado en construir aplicaciones web y sistema
 ## 🚀 Proyectos Destacados
 
 ### GEOvisitPro – Curaprox Chile
-Plataforma web interna desarrollada para el seguimiento de rendimiento comerccial ,para el registro de visita de cada vendedor
-- **Solución Técnica:** Implementación de un panel dinámico (*Dashboard*) con vistas personalizadas según el rol (Administradores / Vendedores).
-- **Desafío técnico resuelto:** Optimización de consultas complejas y filtrado de datos directamente desde estructuras consolidadas en el backend para asegurar tiempos de respuesta ultra rápidos.
-- **Tecnologías:** Laravel, PostgreSQL, Blade Templates.
+
+Sistema de geolocalización y gestión comercial desarrollado para Curaprox Chile, orientado al monitoreo en tiempo real de vendedores en terreno, control de visitas comerciales y análisis de desempeño operativo.
+
+Funciones principales:
+
+Geolocalización en tiempo real de vendedores.
+Registro y seguimiento de visitas comerciales.
+Dashboard ejecutivo con indicadores de rendimiento.
+Historial de recorridos y trazabilidad de actividades.
+Gestión de agendas y cumplimiento de visitas programadas.
+Exportación de información para análisis y reportes.
+
+Solución Técnica:
+Desarrollo de una plataforma web centralizada con paneles dinámicos y vistas personalizadas según perfiles de usuario (Administradores y Vendedores), permitiendo supervisar operaciones comerciales y optimizar la toma de decisiones mediante información actualizada en tiempo real.
+
+Desafíos técnicos abordados:
+
+Integración entre aplicación móvil y plataforma web.
+Procesamiento y visualización de datos georreferenciados.
+Optimización de consultas y filtrado de grandes volúmenes de información para garantizar tiempos de respuesta eficientes.
+Implementación de seguimiento de ubicaciones y registro de actividades comerciales.
+
+Tecnologías utilizadas:
+Laravel, PHP, PostgreSQL, Blade Templates, JavaScript, Leaflet Maps, HTML5, CSS3 y Tailwind CSS.
 - [🔗 Ver Repositorio](https://github.com/Parrys25/Geovisitpro)
 
 ### ⚙️ Sistema Empresarial – Monkey System-Curaprox Chile
