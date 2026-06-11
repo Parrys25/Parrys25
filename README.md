@@ -46,7 +46,7 @@ Laravel, PHP, PostgreSQL, Blade Templates, JavaScript, Leaflet Maps, HTML5, CSS3
 ---
 ###
 
-Monkey System – Curaprox Chile
+Monkey-system – Curaprox Chile
 
 
 Plataforma web corporativa desarrollada para la gestión y análisis de información comercial, integrando módulos de ventas, productos, clientes, vendedores, metas comerciales, reportes ejecutivos y análisis retail en una única solución centralizada.
