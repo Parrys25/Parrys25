@@ -21,7 +21,7 @@ Plataforma web interna desarrollada para el seguimiento de rendimiento comerccia
 - **Solución Técnica:** Implementación de un panel dinámico (*Dashboard*) con vistas personalizadas según el rol (Administradores / Vendedores).
 - **Desafío técnico resuelto:** Optimización de consultas complejas y filtrado de datos directamente desde estructuras consolidadas en el backend para asegurar tiempos de respuesta ultra rápidos.
 - **Tecnologías:** Laravel, PostgreSQL, Blade Templates.
-- [🔗 Ver Repositorio](https://github.com/Parrys25/gestper) *
+- [🔗 Ver Repositorio](https://github.com/Parrys25/Geovisitpro)
 
 ### ⚙️ Sistema Empresarial – Monkey System-Curaprox Chile
 Módulo de software enfocado en la automatización de procesos internos, control de flujos de datos y optimización de lógica de negocio para gestión corporativa.
