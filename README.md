@@ -102,5 +102,5 @@ Escalabilidad para incorporar nuevos módulos de negocio según requerimientos c
 ---
 
 ## 📬 Conectemos
-- **LinkedIn:** [Tu Perfil de LinkedIn](#) *(Reemplaza con tu enlace)*
+- **LinkedIn:www.linkedin.com/in/parrys-iturrieta-519879396
 - **Email:** eduardo.parrys@gmail.com
